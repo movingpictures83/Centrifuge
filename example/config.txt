@@ -1,0 +1,2 @@
+Prefix plugins/Centrifuge/example/
+Plugin Centrifuge inputfile parameters.txt outputfile none

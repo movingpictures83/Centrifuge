@@ -1,0 +1,46 @@
+***********************************************************************************
+*                                                                                 *
+*  PPPPPPPPPPPP    L               U           U   M           M         A        *
+*  P           P   L               U           U   MM         MM        A A       *
+*  P           P   L               U           U   M M       M M       A   A      *
+*  P           P   L               U           U   M  M     M  M      A     A     *
+*  P           P   L               U           U   M   M   M   M     A       A    *
+*  PPPPPPPPPPPP    L               U           U   M    M M    M    A         A   *
+*  P               L               U           U   M     M     M   AAAAAAAAAAAAA  *
+*  P               L               U           U   M           M   A           A  *
+*  P               L               U           U   M           M   A           A  *
+*  P               LLLLLLLLLLLLL    UUUUUUUUUUU    M           M   A           A  *
+*                                                                                 *
+*            [Plu]gin-based [M]icrobiome [A]nalysis (formerly MiAMi)              *
+* (C) 2016, 2018 Bioinformatics Research Group, Florida International University  *
+*    Under MIT License From Open Source Initiative (OSI), All Rights Reserved.    *
+*                                                                                 *
+*    Any professionally published work using PluMA should cite the following:     *
+*                        T. Cickovski and G. Narasimhan.                          *
+*                Constructing Lightweight and Flexible Pipelines                  *
+*                 Using Plugin-Based Microbiome Analysis (PluMA)                  *
+*                     Bioinformatics 34(17):2881-2888, 2018                       *
+*                                                                                 *
+***********************************************************************************
+[PluMA] Running Plugin: Centrifuge
+report file centrifuge_report.tsv
+Number of iterations in EM algorithm: 0
+Probability diff. (P - P_prev) in the last iteration: 0
+Calculating abundance: 00:00:00
+readID  seqID   taxID   score   2ndBestScore    hitLength       queryLength     numMatches
+C_1     gi|7    9913    4225    4225    80      80      2
+C_1     gi|4    9646    4225    4225    80      80      2
+C_2     gi|4    9646    4225    4225    80      80      2
+C_2     gi|7    9913    4225    4225    80      80      2
+C_3     gi|7    9913    4225    4225    80      80      2
+C_3     gi|4    9646    4225    4225    80      80      2
+C_4     gi|4    9646    4225    4225    80      80      2
+C_4     gi|7    9913    4225    4225    80      80      2
+1_1     gi|4    9646    4225    0       80      80      1
+1_2     gi|4    9646    4225    0       80      80      1
+2_1     gi|7    9913    4225    0       80      80      1
+2_2     gi|7    9913    4225    0       80      80      1
+2_3     gi|7    9913    4225    0       80      80      1
+2_4     gi|7    9913    4225    0       80      80      1
+2_5     gi|7    9913    4225    0       80      80      1
+2_6     gi|7    9913    4225    0       80      80      1
